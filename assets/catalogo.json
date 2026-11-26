@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mochila",
+    "name": "Mochila Urbana",
+    "category": "Mochilas",
+    "price": 1250,
+    "capacity": "18 litros",
+    "material": "Poliéster resistente al agua"
+  },
+  {
+    "id": "botella",
+    "name": "Botella térmica",
+    "category": "Botellas",
+    "price": 650,
+    "capacity": "750 ml",
+    "material": "Acero inoxidable"
+  }
+]

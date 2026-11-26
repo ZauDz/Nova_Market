@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name": "Nova Market con Ionic",
+    "type": "node-terminal",
+    "request": "launch",
+    "cwd": "${workspaceFolder}",
+    "command": ".\\Iniciar.cmd",
+    "serverReadyAction": {
+      "pattern": "Nova Market en (https?://[^ ]+)",
+      "uriFormat": "%s",
+      "action": "openExternally"
+    }
+  }]
+}
